@@ -5,7 +5,7 @@ My favourite in-browser password generator is/was down, so I made this...
  - Python: 3.10
  - V: latest
 ### Python setup
-```pip install ```
+```pip install click```
 ### V Build
 ```v passgen.v```
 ### Python Usage
